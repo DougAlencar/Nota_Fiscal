@@ -1,10 +1,3 @@
-# Exibe as informações dos alunos;
-print("================================================")
-print("                  ATIVIDADE 1                   ")
-print("------------------------------------------------")
-print("Douglas Silva Alencar                           ")
-print("------------------------------------------------")
-
 # Exibe o menu de opções dos smartphone;
 print("             ESCOLHA O SMARTPHONE               ")
 print("================================================")
